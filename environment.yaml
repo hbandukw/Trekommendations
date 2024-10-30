@@ -1,0 +1,10 @@
+name: 'trekommendations'
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - ipykernel
+    - pandas
+    - matplotlib
+    - pip
+    - beautifulsoup4
